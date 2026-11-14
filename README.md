@@ -1,6 +1,6 @@
 # Luminance-Based Transmission and Atmospheric Light Refinement for Single Image Dehazing
 
-[![License: Non-Commercial Research]([suspicious link removed])](LICENSE)
+[![License: Non-Commercial Research]](LICENSE)
 
 > **Official implementation for Luminance-Based Transmission and Atmospheric Light Refinement for Single Image Dehazing"**  
 > *Author: Dr. Mohit Kumar Singh, Department of Computer Science & Engineering, MNIT Jaipur*
