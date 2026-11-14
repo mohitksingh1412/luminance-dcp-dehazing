@@ -1,0 +1,50 @@
+ACADEMIC AND RESEARCH NON-COMMERCIAL LICENSE
+Copyright (c) 2025 Dr. Mohit Kumar Singh
+Department of Computer Science & Engineering, 
+Malaviya National Institute of Technology (MNIT) Jaipur, India.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted for academic, educational, evaluation, and non-commercial research 
+purposes only, provided that the following conditions are met:
+
+1. CITATION & ATTRIBUTION:
+   Any publication, presentation, technical report, or software that utilizes, 
+   adapts, or builds upon this code, algorithm, data, or underlying methodology 
+   must formally cite and credit the original author and Ph.D. thesis:
+
+   Mohit Kumar Singh, "Visibility Enhancement for Hazy Environment", 
+   Ph.D. Thesis, Department of Computer Science & Engineering, 
+   Malaviya National Institute of Technology (MNIT) Jaipur, India, 2025.
+
+2. RETENTION OF NOTICES:
+   Redistributions of source code, scripts, or documentation must retain the 
+   above copyright notice, this list of conditions, and the following disclaimer.
+
+3. REDISTRIBUTION OF BINARIES / DERIVATIVES:
+   Redistributions in binary form or derived works must reproduce the above copyright 
+   notice, this list of conditions, and the following disclaimer in the documentation 
+   and/or other materials provided with the distribution.
+
+4. NON-COMMERCIAL RESTRICTION:
+   Neither this software, nor any substantial portion thereof, nor any derived 
+   works may be used for commercial purposes, sold, licensed, or incorporated into 
+   commercial software or commercial services without explicit, prior written 
+   permission from the copyright holder.
+
+5. ENDORSEMENT:
+   Neither the name of Dr. Mohit Kumar Singh nor the name of Malaviya National 
+   Institute of Technology (MNIT) Jaipur may be used to endorse or promote products 
+   derived from this software without specific prior written permission.
+
+DISCLAIMER:
+THIS SOFTWARE AND DOCUMENTATION ARE PROVIDED BY THE COPYRIGHT HOLDERS AND 
+CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT 
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, AND NON-INFRINGEMENT ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT 
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF 
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY 
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
